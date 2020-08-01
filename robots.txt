@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /mail/
+Sitemap: http://www.frigobien.com/sitemap.xml
